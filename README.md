@@ -21,7 +21,7 @@
 ### 🌟 **Топ-проекты**
 | Проект | Описание | Статистика |
 | ------ | -------- | ---------- |
-| [**WMS OZON**](https://github.com/Lumus-0x/WMS-OZON) | Проект для реформатирования систем Туробо ПВЗ | ![Repo Size](https://img.shields.io/github/repo-size/Lumus-0x/code-snippets?style=flat-square) ![Languages](https://img.shields.io/github/languages/count/Lumus-0x/code-snippets?style=flat-square) |
+| [**WMS OZON**](https://github.com/Lumus-0x/WMS-OZON) | Проект для реформатирования систем Туробо ПВЗ | ![Repo Size](https://img.shields.io/github/repo-size/Lumus-0x/WMS-OZON?style=flat-square) ![Languages](https://img.shields.io/github/languages/count/Lumus-0x/WMS-OZON?style=flat-square) |
 
 ---
 
