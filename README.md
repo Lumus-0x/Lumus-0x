@@ -18,14 +18,6 @@
 
 ---
 
-### 🌟 **Топ-проекты**
-| Проект | Описание | Статистика |
-| ------ | -------- | ---------- |
-| [**WMS OZON**](https://github.com/Lumus-0x/WMS-OZON) | Проект для реформатирования систем Турбо ПВЗ | ![Repo Size](https://img.shields.io/github/repo-size/Lumus-0x/WMS-OZON?style=flat-square) ![Languages](https://img.shields.io/github/languages/count/Lumus-0x/WMS-OZON?style=flat-square) |
-| [**Raspberry Pi Service Manager**](https://github.com/Lumus-0x/raspberry-pi-service-manager) | Сервисный менеджер для Raspberry Pi с управлением службами и мониторингом | ![Repo Size](https://img.shields.io/github/repo-size/Lumus-0x/raspberry-pi-service-manager?style=flat-square) ![Languages](https://img.shields.io/github/languages/count/Lumus-0x/raspberry-pi-service-manager?style=flat-square) |
-
----
-
 ### 📊 **Активность**
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lumus-0x&show_icons=true&theme=radical&hide_border=true" />
