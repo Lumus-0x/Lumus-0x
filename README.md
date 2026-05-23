@@ -18,14 +18,6 @@
 
 ---
 
-### 📊 **Активность**
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lumus-0x&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumus-0x&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 📈 **График активности**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lumus-0x&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
